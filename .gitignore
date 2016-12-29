@@ -1,0 +1,6 @@
+06_Capstone/data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
