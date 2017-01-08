@@ -1,0 +1,4 @@
+#!/bin/bash
+# Save PDF
+
+jupyter nbconvert --to pdf report.ipynb
